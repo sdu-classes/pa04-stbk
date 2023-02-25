@@ -1,6 +1,6 @@
 # Enter your information here
 ```
-Full name: ___ ___
+Full name: Satbek
 Student ID: ___ ___
 ```
 
